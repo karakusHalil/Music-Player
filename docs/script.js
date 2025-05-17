@@ -39,7 +39,7 @@ const songs = [
   },
   {
     name: "Tatlıses",
-    displayName: "Ben Sana Yalan Söylemem",
+    displayName: "Senden İnsaf Diler Yarın",
     artist: "İbrahim Tatlıses",
   },
 ];
