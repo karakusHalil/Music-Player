@@ -13,24 +13,24 @@ const nextBtn = document.getElementById("next");
 //Music
 const songs = [
   {
-    name: "Jacinto-1",
-    displayName: "Electric Chill Machine",
-    artist: "Jacinto Design",
+    name: "AnılDURMUS",
+    displayName: "Artık Olmaman Gerek",
+    artist: "Anıl DURMUŞ",
   },
   {
-    name: "Jacinto-2",
-    displayName: "Seven Nation Army (Remix)",
-    artist: "Jacinto Design",
+    name: "Irem",
+    displayName: "Hayalet Sevgilim",
+    artist: "İrem",
   },
   {
-    name: "Jacinto-3",
-    displayName: "Goodnight, Disco Quenn",
-    artist: "Jacinto Design",
+    name: "SahinKENDIRCI",
+    displayName: "İçim Yanar",
+    artist: "Şahin Kendirci",
   },
   {
-    name: "Metric-1",
-    displayName: "Front Row (Remix)",
-    artist: "Metric/Jacinto Design",
+    name: "Demet",
+    displayName: "Arnavut Kaldırımı",
+    artist: "Demet Sağıroğlu",
   },
   {
     name: "Semicenk",
