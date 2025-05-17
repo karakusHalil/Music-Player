@@ -13,12 +13,12 @@ const nextBtn = document.getElementById("next");
 //Music
 const songs = [
   {
-    name: "jacinto-1",
+    name: "Jacinto-1",
     displayName: "Electric Chill Machine",
     artist: "Jacinto Design",
   },
   {
-    name: "jacinto-2",
+    name: "Jacinto-2",
     displayName: "Seven Nation Army (Remix)",
     artist: "Jacinto Design",
   },
