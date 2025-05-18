@@ -50,7 +50,7 @@ const songs = [
   {
     name: "NazanNereyeBoyle",
     displayName: "Nereye Böyle",
-    artist: "Nazan ÖNCEL & TARKAN",
+    artist: "Nazan ÖNCEL & Tarkan",
   },
 ];
 
