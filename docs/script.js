@@ -38,9 +38,19 @@ const songs = [
     artist: "Semicenk",
   },
   {
-    name: "Tatlıses",
-    displayName: "Senden İnsaf Diler Yarın",
-    artist: "İbrahim Tatlıses",
+    name: "EbruGundes",
+    displayName: "Ölümsüz Aşklar",
+    artist: "Ebru GÜNDEŞ",
+  },
+  {
+    name: "NazanBeniHatırla",
+    displayName: "Beni Hatırla",
+    artist: "Nazan ÖNCEL",
+  },
+  {
+    name: "NazanNereyeBoyle",
+    displayName: "Nereye Böyle",
+    artist: "Nazan ÖNCEL & TARKAN",
   },
 ];
 
