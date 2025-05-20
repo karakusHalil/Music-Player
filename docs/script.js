@@ -52,6 +52,16 @@ const songs = [
     displayName: "Nereye Böyle",
     artist: "Nazan ÖNCEL & Tarkan",
   },
+  {
+    name: "AliKINIK",
+    displayName: "Zemheri",
+    artist: "Ali KINIK",
+  },
+  {
+    name: "EylemAKTAS",
+    displayName: "Yüreğimden Tut",
+    artist: "Eylem AKTAŞ",
+  },
 ];
 
 //Check if Playing
