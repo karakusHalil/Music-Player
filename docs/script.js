@@ -62,6 +62,26 @@ const songs = [
     displayName: "Yüreğimden Tut",
     artist: "Eylem AKTAŞ",
   },
+  {
+    name: "Zifiri",
+    displayName: "Zifiri",
+    artist: "BAYHAN",
+  },
+  {
+    name: "Tiryakinim",
+    displayName: "Tiryakinim",
+    artist: "BAYHAN",
+  },
+  {
+    name: "MansurArk",
+    displayName: "Silinmez",
+    artist: "Mansur Ark",
+  },
+  {
+    name: "Sagopa366",
+    displayName: "366.Gün",
+    artist: "Sagopa Kajmer",
+  },
 ];
 
 //Check if Playing
