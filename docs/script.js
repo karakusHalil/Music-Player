@@ -82,6 +82,16 @@ const songs = [
     displayName: "366.Gün",
     artist: "Sagopa Kajmer",
   },
+  {
+    name: "ibrahimTatlıses",
+    displayName: "Allah'ım Neydi Günahım",
+    artist: "İbrahim TATLISES",
+  },
+  {
+    name: "bayhanGassal",
+    displayName: "Efendim İşitmedim",
+    artist: "BAYHAN",
+  },
 ];
 
 //Check if Playing
